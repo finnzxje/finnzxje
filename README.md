@@ -1,16 +1,13 @@
-## Hi there 👋
+# Currently Learning
+- End-to-end confusion-driven development (E2ECDD)
+- Force push and pray
+- async overthinking with callback regret
+- functional hydration and state dehydration (stay hydrated, stay stateless)
+- aggressive semantic naming (e.g., variable2, theRealFinal_version3_REAL.js)
+- 🐭 Mouse avoidance therapy (step 7: whispering to the terminal)
+- intense Englishification of thoughts (writings per minute: 42 WPM, 3 grammar regrets)
+- micro-microservice micro-crises
+- Neovim teleportation using pure keybinding chi
+- DOM-based lifeform interaction via aura.js (experimental)
 
-<!--
-**finnzxje/finnzxje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Real engineers don’t vibe code. They compile from the soul.*
